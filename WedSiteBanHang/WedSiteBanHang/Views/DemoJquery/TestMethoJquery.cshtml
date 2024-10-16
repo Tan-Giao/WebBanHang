@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "TestMethoJquery";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+
+<div class="content1">abc 1</div>
+<div class="content">xyz 1</div>
+<div class="content">xyz 4</div>
+<div class="content">xyz 3</div>
+<div class="content">abc 5</div>
+<input type="button" value="Xuất thông báo" id="btnXuatThongBao" />
+
+<script>
+    $("#btnXuatThongBao").click(function () {
+        $(".content1").each(function (){
+            var noidung = $(this).text();
+            alert(noidung);
+
+        });
+    });
+</script>
+

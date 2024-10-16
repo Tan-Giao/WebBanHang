@@ -1,0 +1,1220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WedSiteBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|d:\\wedsitebanhang\\wedsitebanhang\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\layout\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\layout\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\layout\\homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\layout\\homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quanlysanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quanlysanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quanlysanpham\\chinhsua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quanlysanpham\\chinhsua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\layout\\productlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\layout\\productlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\sanpham\\xemchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\sanpham\\xemchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\sanpham\\sanphamstyle1partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\sanpham\\sanphamstyle1partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\layout\\headertoparital.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\layout\\headertoparital.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\sanpham\\xemgioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\sanpham\\xemgioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\sanpham\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\sanpham\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quyen\\xemchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quyen\\xemchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quanlysanpham\\xoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quanlysanpham\\xoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\sanpham\\sanphamstyle2partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\sanpham\\sanphamstyle2partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\timkiem\\kqtimkiempartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\timkiem\\kqtimkiempartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\timkiem\\kqtimkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\timkiem\\kqtimkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\thongke\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\thongke\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\submitlistmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\submitlistmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quyen\\themquyen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quyen\\themquyen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quyen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quyen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quyen\\chinhsuaquyen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quyen\\chinhsuaquyen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quanlysanpham\\taomoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quanlysanpham\\taomoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quanlyphieunhap\\nhaphangdon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quanlyphieunhap\\nhaphangdon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quanlyphieunhap\\nhaphang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quanlyphieunhap\\nhaphang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quanlyphieunhap\\dsshethang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quanlyphieunhap\\dsshethang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quanlydonhang\\duyetdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quanlydonhang\\duyetdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quanlydonhang\\dagiaodathanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quanlydonhang\\dagiaodathanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quanlydonhang\\chuathanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quanlydonhang\\chuathanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\quanlydonhang\\chuagiao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quanlydonhang\\chuagiao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\phanquyen\\phanquyen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\phanquyen\\phanquyen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\phanquyen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\phanquyen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\lienhe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\lienhe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\khachhang\\truyvan1doituong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\khachhang\\truyvan1doituong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\khachhang\\sortdulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\khachhang\\sortdulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\khachhang\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\khachhang\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\khachhang\\groupdulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\khachhang\\groupdulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\home\\xemthongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\home\\xemthongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\home\\thanhtraipatial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\home\\thanhtraipatial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\home\\menuparial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\home\\menuparial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\home\\loiphanquyen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\home\\loiphanquyen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\home\\dangky1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\home\\dangky1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\home\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\home\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\giohang\\xemgiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\giohang\\xemgiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\giohang\\thongbao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\giohang\\thongbao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\giohang\\suagiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\giohang\\suagiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\demojquery\\testmethojquery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\demojquery\\testmethojquery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\democss\\demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\democss\\demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\demoajax\\loadsanphamajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\demoajax\\loadsanphamajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\demoajax\\demoajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\demoajax\\demoajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\dangky\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\dangky\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\content\\js\\responsiveslides.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\content\\js\\responsiveslides.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\controllers\\demoajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\demoajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\controllers\\dangkycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\dangkycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\project_readme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\project_readme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\controllers\\demojquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\demojquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\controllers\\democsscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\democsscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\wedsitebanhang\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Layout\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Layout\\AdminLayout.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Layout\\AdminLayout.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Layout\\AdminLayout.cshtml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAADwv6cAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T04:42:00.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChinhSua.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLySanPham\\ChinhSua.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\QuanLySanPham\\ChinhSua.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLySanPham\\ChinhSua.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\QuanLySanPham\\ChinhSua.cshtml",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAIAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:39:58.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLySanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\QuanLySanPham\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLySanPham\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\QuanLySanPham\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:40:42.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:43:14.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T04:39:22.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLySanPhamController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\QuanLySanPhamController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\QuanLySanPhamController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\QuanLySanPhamController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\QuanLySanPhamController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:31:51.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeLayout.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Layout\\HomeLayout.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Layout\\HomeLayout.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Layout\\HomeLayout.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Layout\\HomeLayout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T05:13:42.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanphamController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\SanphamController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\SanphamController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\SanphamController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\SanphamController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwD4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:59:24.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "program.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\program.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\program.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\program.cs",
+              "RelativeToolTip": "WedSiteBanHang\\program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:21:52.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T05:28:50.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductLayout.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Layout\\ProductLayout.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Layout\\ProductLayout.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Layout\\ProductLayout.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Layout\\ProductLayout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T05:29:56.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HeaderToParital.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Layout\\HeaderToParital.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Layout\\HeaderToParital.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Layout\\HeaderToParital.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Layout\\HeaderToParital.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:27:21.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XemChiTiet.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\XemChiTiet.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Sanpham\\XemChiTiet.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\XemChiTiet.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Sanpham\\XemChiTiet.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:43:47.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanPhamStyle1Partial.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle1Partial.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle1Partial.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle1Partial.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle1Partial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:11:39.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "XemGioiThieu.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\XemGioiThieu.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Sanpham\\XemGioiThieu.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\XemGioiThieu.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Sanpham\\XemGioiThieu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T08:56:01.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sanpham.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\Sanpham.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Sanpham\\Sanpham.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\Sanpham.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Sanpham\\Sanpham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:04:09.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "XemChiTiet.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Quyen\\XemChiTiet.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Quyen\\XemChiTiet.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Quyen\\XemChiTiet.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Quyen\\XemChiTiet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:43:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Xoa.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLySanPham\\Xoa.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\QuanLySanPham\\Xoa.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLySanPham\\Xoa.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\QuanLySanPham\\Xoa.cshtml",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAIMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:42:03.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SanPhamStyle2Partial.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle2Partial.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle2Partial.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle2Partial.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle2Partial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:02:01.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\SubmitListModel\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\SubmitListModel\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\SubmitListModel\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\SubmitListModel\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:44:49.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KQTimKiem.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\TimKiem\\KQTimKiem.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\TimKiem\\KQTimKiem.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\TimKiem\\KQTimKiem.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\TimKiem\\KQTimKiem.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:45:01.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KQTimKiemPartial.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\TimKiem\\KQTimKiemPartial.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\TimKiem\\KQTimKiemPartial.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\TimKiem\\KQTimKiemPartial.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\TimKiem\\KQTimKiemPartial.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:45:13.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\ThongKe\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\ThongKe\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\ThongKe\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\ThongKe\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:44:04.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ThemQuyen.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Quyen\\ThemQuyen.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Quyen\\ThemQuyen.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Quyen\\ThemQuyen.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Quyen\\ThemQuyen.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:43:24.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChinhSuaQuyen.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Quyen\\ChinhSuaQuyen.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Quyen\\ChinhSuaQuyen.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Quyen\\ChinhSuaQuyen.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Quyen\\ChinhSuaQuyen.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:42:42.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TaoMoi.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLySanPham\\TaoMoi.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\QuanLySanPham\\TaoMoi.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLySanPham\\TaoMoi.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\QuanLySanPham\\TaoMoi.cshtml",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAHcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:41:20.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NhapHangDon.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyPhieuNhap\\NhapHangDon.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\QuanLyPhieuNhap\\NhapHangDon.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyPhieuNhap\\NhapHangDon.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\QuanLyPhieuNhap\\NhapHangDon.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:39:54.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NhapHang.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyPhieuNhap\\NhapHang.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\QuanLyPhieuNhap\\NhapHang.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyPhieuNhap\\NhapHang.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\QuanLyPhieuNhap\\NhapHang.cshtml",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAKQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:37:29.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Quyen\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Quyen\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Quyen\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Quyen\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:51:44.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DSSHetHang.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyPhieuNhap\\DSSHetHang.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\QuanLyPhieuNhap\\DSSHetHang.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyPhieuNhap\\DSSHetHang.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\QuanLyPhieuNhap\\DSSHetHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:36:50.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DuyetDonHang.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyDonHang\\DuyetDonHang.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\QuanLyDonHang\\DuyetDonHang.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyDonHang\\DuyetDonHang.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\QuanLyDonHang\\DuyetDonHang.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:34:56.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DaGiaoDaThanhToan.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyDonHang\\DaGiaoDaThanhToan.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\QuanLyDonHang\\DaGiaoDaThanhToan.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyDonHang\\DaGiaoDaThanhToan.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\QuanLyDonHang\\DaGiaoDaThanhToan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:33:38.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ChuaThanhToan.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyDonHang\\ChuaThanhToan.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\QuanLyDonHang\\ChuaThanhToan.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyDonHang\\ChuaThanhToan.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\QuanLyDonHang\\ChuaThanhToan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:32:58.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ChuaGiao.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyDonHang\\ChuaGiao.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\QuanLyDonHang\\ChuaGiao.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\QuanLyDonHang\\ChuaGiao.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\QuanLyDonHang\\ChuaGiao.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:32:16.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PhanQuyen.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\PhanQuyen\\PhanQuyen.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\PhanQuyen\\PhanQuyen.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\PhanQuyen\\PhanQuyen.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\PhanQuyen\\PhanQuyen.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:31:26.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\PhanQuyen\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\PhanQuyen\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\PhanQuyen\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\PhanQuyen\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:30:18.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\KhachHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\KhachHang\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\KhachHang\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\KhachHang\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:47:05.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\KhachHang\\Index1.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\KhachHang\\Index1.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\KhachHang\\Index1.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\KhachHang\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:47:10.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SortDulieu.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\KhachHang\\SortDulieu.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\KhachHang\\SortDulieu.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\KhachHang\\SortDulieu.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\KhachHang\\SortDulieu.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T04:41:54.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TruyVan1DoiTuong.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\KhachHang\\TruyVan1DoiTuong.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\KhachHang\\TruyVan1DoiTuong.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\KhachHang\\TruyVan1DoiTuong.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\KhachHang\\TruyVan1DoiTuong.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T04:41:58.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\LienHe\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\LienHe\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\LienHe\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\LienHe\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:08:21.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GroupDulieu.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\KhachHang\\GroupDulieu.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\KhachHang\\GroupDulieu.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\KhachHang\\GroupDulieu.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\KhachHang\\GroupDulieu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:47:02.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "XemThongTin.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\XemThongTin.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Home\\XemThongTin.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\XemThongTin.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Home\\XemThongTin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:46:58.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ThanhtraiPatial.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\ThanhtraiPatial.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Home\\ThanhtraiPatial.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\ThanhtraiPatial.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Home\\ThanhtraiPatial.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T05:29:07.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MenuParial.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\MenuParial.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Home\\MenuParial.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\MenuParial.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Home\\MenuParial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T05:39:14.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoiPhanQuyen.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\LoiPhanQuyen.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Home\\LoiPhanQuyen.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\LoiPhanQuyen.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Home\\LoiPhanQuyen.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T05:39:03.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Dangky1.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\Dangky1.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Home\\Dangky1.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\Dangky1.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Home\\Dangky1.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T05:39:12.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Dangky.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\Dangky.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Home\\Dangky.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Home\\Dangky.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Home\\Dangky.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T05:29:15.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "XemGioHang.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\GioHang\\XemGioHang.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\GioHang\\XemGioHang.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\GioHang\\XemGioHang.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\GioHang\\XemGioHang.cshtml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:45:10.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ThongBao.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\GioHang\\ThongBao.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\GioHang\\ThongBao.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\GioHang\\ThongBao.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\GioHang\\ThongBao.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:45:07.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SuaGioHang.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\GioHang\\SuaGioHang.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\GioHang\\SuaGioHang.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\GioHang\\SuaGioHang.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\GioHang\\SuaGioHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:44:54.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GioHangPartial.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\GioHang\\GioHangPartial.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\GioHang\\GioHangPartial.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\GioHang\\GioHangPartial.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\GioHang\\GioHangPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:44:50.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TestMethoJquery.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\DemoJquery\\TestMethoJquery.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\DemoJquery\\TestMethoJquery.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\DemoJquery\\TestMethoJquery.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\DemoJquery\\TestMethoJquery.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:44:45.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Demo.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\DemoCss\\Demo.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\DemoCss\\Demo.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\DemoCss\\Demo.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\DemoCss\\Demo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:44:33.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LoadSanphamAjax.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\DemoAjax\\LoadSanphamAjax.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\DemoAjax\\LoadSanphamAjax.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\DemoAjax\\LoadSanphamAjax.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\DemoAjax\\LoadSanphamAjax.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:44:29.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DemoAjax.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\DemoAjax\\DemoAjax.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\DemoAjax\\DemoAjax.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\DemoAjax\\DemoAjax.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\DemoAjax\\DemoAjax.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T09:43:54.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\DangKy\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\DangKy\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\DangKy\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\DangKy\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:44:18.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T03:54:58.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:48:49.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "responsiveslides.min.js",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Content\\js\\responsiveslides.min.js",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Content\\js\\responsiveslides.min.js",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Content\\js\\responsiveslides.min.js",
+              "RelativeToolTip": "WedSiteBanHang\\Content\\js\\responsiveslides.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-15T09:29:36.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DemoAjaxController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoAjaxController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\DemoAjaxController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoAjaxController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\DemoAjaxController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:43:11.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DangKyController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DangKyController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\DangKyController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DangKyController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\DangKyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:43:04.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Web.Release.config",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Web.Release.config",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Web.Release.config",
+              "RelativeToolTip": "WedSiteBanHang\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-15T04:26:12.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Web.Debug.config",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Web.Debug.config",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Web.Debug.config",
+              "RelativeToolTip": "WedSiteBanHang\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-15T04:26:10.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WedSiteBanHang\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:25:11.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\App_Start\\IdentityConfig.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "WedSiteBanHang\\App_Start\\IdentityConfig.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:25:05.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "WedSiteBanHang\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:25:03.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "WedSiteBanHang\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:24:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Project_Readme.html",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Project_Readme.html",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Project_Readme.html",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Project_Readme.html",
+              "RelativeToolTip": "WedSiteBanHang\\Project_Readme.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-13T13:51:31.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\App_Start\\Startup.Auth.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "WedSiteBanHang\\App_Start\\Startup.Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:39:20.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Web.config",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Web.config",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Web.config",
+              "RelativeToolTip": "WedSiteBanHang\\Web.config",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-15T03:39:05.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DemoJqueryController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoJqueryController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\DemoJqueryController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoJqueryController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\DemoJqueryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:57:45.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DemoCssController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoCssController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\DemoCssController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoCssController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\DemoCssController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:57:43.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TimKiemController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\TimKiemController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\TimKiemController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\TimKiemController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\TimKiemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:43:18.308Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

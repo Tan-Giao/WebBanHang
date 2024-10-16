@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WedSiteBanHang\\WedSiteBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|d:\\wedsitebanhang\\wedsitebanhang\\wedsitebanhang\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\project_readme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\project_readme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\views\\sanpham\\sanphamstyle1partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\sanpham\\sanphamstyle1partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\views\\sanpham\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\sanpham\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\controllers\\demojquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\demojquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\controllers\\democsscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\democsscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\controllers\\demoajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\demoajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\controllers\\dangkycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\dangkycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\views\\quyen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\quyen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\views\\demoajax\\demoajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\views\\demoajax\\demoajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|D:\\WedSiteBanHang\\WedSiteBanHang\\wedsitebanhang\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2DCFE6-C243-4689-B029-0A7D6D8950C8}|WedSiteBanHang\\WedSiteBanHang.csproj|solutionrelative:wedsitebanhang\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLySanPhamController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\QuanLySanPhamController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\QuanLySanPhamController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\QuanLySanPhamController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\QuanLySanPhamController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:31:51.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\appsettings.json",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\appsettings.json",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\appsettings.json",
+              "RelativeToolTip": "WedSiteBanHang\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T04:28:08.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Web.Release.config",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Web.Release.config",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Web.Release.config",
+              "RelativeToolTip": "WedSiteBanHang\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-15T04:26:12.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Web.Debug.config",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Web.Debug.config",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Web.Debug.config",
+              "RelativeToolTip": "WedSiteBanHang\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-15T04:26:10.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WedSiteBanHang\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:25:11.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\App_Start\\IdentityConfig.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "WedSiteBanHang\\App_Start\\IdentityConfig.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:25:05.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "WedSiteBanHang\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:25:03.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "WedSiteBanHang\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:24:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Startup.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Startup.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Startup.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:15:51.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project_Readme.html",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Project_Readme.html",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Project_Readme.html",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Project_Readme.html",
+              "RelativeToolTip": "WedSiteBanHang\\Project_Readme.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-13T13:51:31.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sanpham.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\Sanpham.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Sanpham\\Sanpham.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\Sanpham.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Sanpham\\Sanpham.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:04:09.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T03:57:32.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T03:54:58.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\App_Start\\Startup.Auth.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "WedSiteBanHang\\App_Start\\Startup.Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:39:20.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Web.config",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Web.config",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Web.config",
+              "RelativeToolTip": "WedSiteBanHang\\Web.config",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-15T03:39:05.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DemoJqueryController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoJqueryController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\DemoJqueryController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoJqueryController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\DemoJqueryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:57:45.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:56:07.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:43:14.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SanPhamStyle1Partial.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle1Partial.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle1Partial.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle1Partial.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Sanpham\\SanPhamStyle1Partial.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:11:39.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\Quyen\\Index.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\Quyen\\Index.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\Quyen\\Index.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\Quyen\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:51:44.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:48:49.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DemoCssController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoCssController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\DemoCssController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoCssController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\DemoCssController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:57:43.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DemoAjax.cshtml",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\DemoAjax\\DemoAjax.cshtml",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Views\\DemoAjax\\DemoAjax.cshtml",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Views\\DemoAjax\\DemoAjax.cshtml",
+              "RelativeToolTip": "WedSiteBanHang\\Views\\DemoAjax\\DemoAjax.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T09:43:54.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DemoAjaxController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoAjaxController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\DemoAjaxController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DemoAjaxController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\DemoAjaxController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:43:11.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DangKyController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DangKyController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\DangKyController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\DangKyController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\DangKyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:43:04.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TimKiemController.cs",
+              "DocumentMoniker": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\TimKiemController.cs",
+              "RelativeDocumentMoniker": "WedSiteBanHang\\Controllers\\TimKiemController.cs",
+              "ToolTip": "D:\\WedSiteBanHang\\WedSiteBanHang\\WedSiteBanHang\\Controllers\\TimKiemController.cs",
+              "RelativeToolTip": "WedSiteBanHang\\Controllers\\TimKiemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:43:18.308Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

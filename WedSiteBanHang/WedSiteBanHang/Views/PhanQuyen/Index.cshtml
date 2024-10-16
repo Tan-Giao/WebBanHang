@@ -1,0 +1,53 @@
+﻿@using WedSiteBanHang.Models;
+@model IEnumerable<LoaiThanhVien>
+
+@{
+    ViewBag.Title = "ThemQuyen";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+    WebGrid grid = new WebGrid(source: Model, rowsPerPage: 15);
+}
+
+
+@Html.ActionLink("Thêm quyền", "TaoMoi", null, new { @class = "btn btn-success" })
+<br /><br />
+
+@grid.GetHtml(
+    tableStyle: "divTable", 
+    headerStyle: "gridHead",
+    footerStyle: "gridFooter",
+    rowStyle: "gridRow",
+    alternatingRowStyle: "gridAltRow",
+    columns: grid.Columns(
+        grid.Column("MaLoaiTV", "Mã loại thành viên"),
+        grid.Column("TenLoai", "Loại thành viên"),
+        grid.Column(format: p => Html.ActionLink("Phân Quyền", "PhanQuyen", new { id = p.MaLoaiTV }))
+      ))
+<style>
+    .divTable {
+        width: 100%;
+        border: 1px solid #999999;
+    }
+
+        .divTable td {
+            border: 1px solid #999999;
+        }
+
+    .gridHead {
+        background-color: green;
+    }
+
+        .gridHead > th > a {
+            color: #fff;
+        }
+
+    .gridFooter {
+        font-weight: bold;
+    }
+</style>
+<style>
+    .FooterAdmin {
+        display: none;
+    }
+</style>
+
+

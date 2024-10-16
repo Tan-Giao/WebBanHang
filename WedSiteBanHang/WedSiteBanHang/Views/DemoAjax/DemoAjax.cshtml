@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "DemoAjax";
+    Layout = "~/Views/Layout/HomeLayout.cshtml";
+}
+@Ajax.ActionLink("Load Ajax MVC", "LoadSanphamAjax", new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "KetQua", InsertionMode = InsertionMode.Replace, LoadingElementId = "divLoadding" })
+<div class="container">
+    <div class="content-top">
+        <div id="KetQua" style="height:150px;">
+            Day la ket quan
+            <br />
+        </div>
+        </div>
+    </div>
+        <div id="divLoadding" style="display: none">
+            <img src="~/Content/images/Anhdong.gif" />
+        </div>
